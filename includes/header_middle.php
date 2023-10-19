@@ -49,7 +49,7 @@ if (isset($_POST['remove_product'])) {
 
                         <li class="menu-item"><a href="index.php">Trang chủ</a></li>
                         <li class="menu-item"><a href="all_product.php">Tất cả sản phẩm</a></li>
-                        <li class="menu-item"><a href="#">About Us</a></li>
+                        <li class="menu-item"><a href="about_us.php">About Us</a></li>
                        
                         <li class="menu-item"><a href="#"> Chính Sách </a></li>
                         <?php 
