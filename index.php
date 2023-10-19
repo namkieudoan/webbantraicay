@@ -87,14 +87,7 @@ include_once("includes/head.php");
             include_once("includes/brands.php");
             ?>
 
-             <!-- tin tức -->
-            <div class="Product-box sm-margin-top-96px sm-margin-bottom-80px">
-                <div class="container">
-                    <div class="row">
-                        <h2>Phần Tin tức</h2>
-                    </div>
-                </div>
-            </div>
+           
 
         </div>
     </div>

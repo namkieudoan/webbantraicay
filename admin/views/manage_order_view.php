@@ -1,4 +1,4 @@
-<h2>Manage order</h2>
+<h2>Quản lý đơn hàng</h2>
 
 <?php
 

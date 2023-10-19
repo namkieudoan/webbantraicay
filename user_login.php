@@ -88,7 +88,7 @@ include_once("includes/head.php");
                                 </p>
                                 <p class="wrap-btn">
                                     <input type="submit" value="Log In" name="user_login_btn" class="btn btn-success">
-                                    <a href="user_password_recover.php" class="link-to-help">Forgot your password</a>
+                                    <a href="user_password_recover.php" class="link-to-help">Quên mật khẩu</a>
                                 </p>
                             </form>
                         </div>
@@ -98,16 +98,14 @@ include_once("includes/head.php");
                     <div class="col-lg-6 col-md-6 col-sm-6 col-xs-12">
                         <div class="register-in-container">
                             <div class="intro">
-                                <h4 class="box-title">New Customer?</h4>
-                                <p class="sub-title">Create an account with us and you’ll be able to:</p>
+                                <h4 class="box-title">Khách hàng mới?</h4>
+                                <p class="sub-title">Tạo ngay tài khoản với nhiều ưu đãi:</p>
                                 <ul class="lis">
-                                    <li>Check out faster</li>
-                                    <li>Save multiple shipping anddesses</li>
-                                    <li>Access your order history</li>
-                                    <li>Track new orders</li>
-                                    <li>Save items to your Wishlist</li>
+                                    <li> Thanh toán nhanh</li>
+                                    <li>Lưu lại địa chỉ cho lần sau</li>
+                                    <li>Lịch sử mua hàng</li>
                                 </ul>
-                                <a href="user_register.php" class="btn btn-bold">Create an account</a>
+                                <a href="user_register.php" class="btn btn-bold">Tạo tài khoản</a>
                             </div>
                         </div>
                     </div>
