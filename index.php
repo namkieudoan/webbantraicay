@@ -60,21 +60,22 @@ include_once("includes/head.php");
             include_once("includes/banner_slider.php")
             ?>
             <!--Block 06: Products-->
-            <div class="Product-box sm-margin-top-96px">
-                <div class="container">
-                    <div class="row">
-                        <?php
-                            include_once("includes/top_rated_product.php")
-
-                        ?>
-                    </div>
-                </div>
-            </div>
+           
             <div class="Product-box sm-margin-top-96px">
                 <div class="container">
                     <div class="row">
                         <?php
                             include_once("includes/top_new_product.php")
+
+                        ?>
+                    </div>
+                </div>
+            </div>
+             <div class="Product-box sm-margin-top-96px">
+                <div class="container">
+                    <div class="row">
+                        <?php
+                            include_once("includes/top_rated_product.php")
 
                         ?>
                     </div>

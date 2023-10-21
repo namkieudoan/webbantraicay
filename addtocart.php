@@ -16,7 +16,7 @@ if (isset($_POST['addtocart'])) {
         if (in_array($_POST['pdt_name'], $pdt_names)) {
             echo "
             <script>
-                alert('This Item Already added in Cart')
+                alert('Sản phẩm này đã được thêm vào giỏ hàng')
             </script>
         ";
         } else {
@@ -144,7 +144,7 @@ include_once("includes/head.php");
                                         </tr>
 
                                         <?php }}else{
-                                            echo "Your cart is empty";
+                                            echo "Giỏ hàng trống";
                                         }?>
 
                                      
@@ -167,10 +167,10 @@ include_once("includes/head.php");
                                     <p class="desc">Based on 56789</p>
                                 </div> -->
                                 <div class="btn-checkout">
-                                    <a href="userprofile.php" class="btn checkout">Check out</a>
+                                    <a href="userprofile.php" class="btn checkout">Thanh Toán</a>
                                 </div>
                               
-                                <p class="pickup-info"><b>Free Ship</b> có sẵn ngay hôm nay Thông tin thêm về vận chuyển và nhận hàng</p>
+                                <p class="pickup-info"><b>Free Ship</b> Thông tin thêm về vận chuyển và nhận hàng</p>
                             </div>
                         </div>
                     </div>

@@ -485,7 +485,7 @@ class  adminback
 
     function display_top_rated_pdt()
     {
-        $query = "SELECT * FROM `product_info_ctg` WHERE `pdt_price`> 200  ORDER BY `pdt_price` LIMIT 12";
+        $query = "SELECT * FROM `product_info_ctg` WHERE `pdt_price`> 150  ORDER BY `pdt_price` LIMIT 12";
 
         if (mysqli_query($this->connection, $query)) {
             $top_rated = mysqli_query($this->connection, $query);

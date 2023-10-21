@@ -5,7 +5,7 @@
 
 <div class="advance-product-box">
                                 <div class="biolife-title-box bold-style biolife-title-box__bold-style">
-                                    <h3 class="title">Top Sản Phẩm được chọn nhiều nhất</h3>
+                                    <h3 class="title">Top Sản Phẩm Chất lượng</h3>
                                 </div>
                                 <ul class="products biolife-carousel nav-center-03 nav-none-on-mobile row-space-29px" data-slick='{"rows":2,"arrows":true,"dots":false,"infinite":false,"speed":400,"slidesMargin":30,"slidesToShow":2,"responsive":[{"breakpoint":1200,"settings":{ "rows":2, "slidesToShow": 2}},{"breakpoint":992, "settings":{ "rows":2, "slidesToShow": 1}},{"breakpoint":768, "settings":{ "rows":2, "slidesToShow": 2}},{"breakpoint":500, "settings":{ "rows":2, "slidesToShow": 1}}]}'>
                                 

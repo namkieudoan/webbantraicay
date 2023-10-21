@@ -162,14 +162,14 @@ include_once("includes/head.php");
                                                 </div>
 
                                                 <div class="shipping-info">
-                                                    <p class="shipping-day">3-Day Shipping</p>
-                                                    <p class="for-today">Pree Pickup Today</p>
+                                                    <p class="shipping-day">Ship trong 3 Ngày</p>
+                                                    <p class="for-today">Free Ship hôm nay</p></p>
                                                 </div>
                                             </div>
                                             <div class="action-form">
 
                                                 <div class="total-price-contain">
-                                                    <span class="title">Total Price:</span>
+                                                    <span class="title">Tổng:</span>
                                                     <p class="price">$
                                                         <?php
 
@@ -232,9 +232,9 @@ include_once("includes/head.php");
                                     <div class="desc-expand">
                                         <span class="title">Organic Fresh Fruit</span>
                                         <ul class="list">
-                                            <li>100% real fruit ingredients</li>
-                                            <li>100 fresh fruit bags individually wrapped</li>
-                                            <li>Blending Eastern & Western traditions, naturally</li>
+                                            <li>100% Hoa quả chất lượng</li>
+                                            <li>100 Trái cây tươi</li>
+                                            <li>Hoa quả có nguồn gốc rõ ràng, đã kiểm định</li>
                                         </ul>
                                     </div>
                                 </div>
@@ -489,7 +489,7 @@ include_once("includes/head.php");
 
                                                 </div>
                                                 <div class="slide-down-box">
-                                                    <p class="message">All products are carefully selected to ensure food safety.</p>
+                                                    <p class="message">Tất cả trái cây đều đã được kiểm định,có nguồn gốc xuất sứ rõ ràng .</p>
 
                                                 </div>
                                             </div>

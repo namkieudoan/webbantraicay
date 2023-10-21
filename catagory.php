@@ -124,8 +124,8 @@ include_once("includes/head.php");
 
                                             </div>
                                             <div class="shipping-info">
-                                                <p class="shipping-day">3-Day Shipping</p>
-                                                <p class="for-today">Pree Pickup Today</p>
+                                                <p class="shipping-day">Ship trong 3 ngày</p>
+                                                <p class="for-today">Miễn phí ship hôm nay</p>
                                             </div>
                                             <div class="slide-down-box">
                                                 <p class="message">Tất cả các sản phẩm đều được lựa chọn kỹ lưỡng để đảm bảo an toàn vệ sinh thực phẩm.</p>

@@ -501,7 +501,7 @@ body{
 .biof-loading-center-absolute .dot{
     width: 20px;
     height: 20px;
-    background-color: #05a503;
+    background-color: #4a75c5; //05a503
     float: left;
     margin-right: 20px;
     margin-top: 65px;
